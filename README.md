@@ -1,8 +1,27 @@
-### reference
+# Boids
 
-https://www.red3d.com/cwr/boids/
+**Text copied from wikipedia**
 
-http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
+Boids is an artificial life program, developed by Craig Reynolds in 1986, which simulates the flocking behaviour of birds. His paper on this topic was published in 1987 in the proceedings of the ACM SIGGRAPH conference.The name "boid" corresponds to a shortened version of "bird-oid object", which refers to a bird-like object. Incidentally, "boid" is also a New York Metropolitan dialect pronunciation for "bird". 
 
-https://www.youtube.com/watch?v=86iQiV3-3IA&feature=youtu.be
+**Text copied from wikipedia**
+
+## Dynamics
+
+## 2D
+
+![2D_Boids](https://github.com/gcontesini/AM_boids/blob/master/flocking_boids.gif)
+
+## 3D
+
+
+## reference
+
+[Wikipedia](https://en.wikipedia.org/wiki/Boids)
+
+[site_1]https://www.red3d.com/cwr/boids/
+
+[site_2]http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
+
+[youtube_video]https://www.youtube.com/watch?v=86iQiV3-3IA&feature=youtu.be
 
