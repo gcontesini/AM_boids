@@ -15,7 +15,7 @@ set output "flocking_boids.gif"
 
 boids_data_file = "boids.dat"
 
-do for [time_int=1:max_time_int] {
+do for [time_int=0:max_time_int] {
 
   plot boids_data_file index time_int using 1:2 with points pt 7 ps 0.75
 

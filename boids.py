@@ -13,7 +13,7 @@ from boid_class import *
 
 def main():
 
-  number_boids_int = 25
+  number_boids_int = 30
   lattice_size_int = 10
   total_time_int = 1e3
   time_step_float = 1e-1

@@ -17,11 +17,11 @@ Boids is an artificial life program, developed by Craig Reynolds in 1986, which 
 
 ## reference
 
-[Wikipedia](https://en.wikipedia.org/wiki/Boids)
+- Boids [Wikipedia](https://en.wikipedia.org/wiki/Boids)
 
-[site_1]https://www.red3d.com/cwr/boids/
+- [site_1](https://www.red3d.com/cwr/boids/)
 
-[site_2]http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
+- [site_2](http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/)
 
-[youtube_video]https://www.youtube.com/watch?v=86iQiV3-3IA&feature=youtu.be
+- [youtube_video](https://www.youtube.com/watch?v=86iQiV3-3IA&feature=youtu.be)
 
