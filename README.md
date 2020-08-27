@@ -14,6 +14,7 @@ Boids is an artificial life program, developed by Craig Reynolds in 1986, which 
 
 ## 3D
 
+![3d_Boids](https://github.com/gcontesini/AM_boids/blob/master/flocking_boids_3d.gif)
 
 ## reference
 
