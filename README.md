@@ -30,16 +30,16 @@ Boids is an artificial life program, developed by Craig Reynolds in 1986, which 
 
 - Position Test
 
-- [] Quad-tree
-- [] Kd-Tree
-- [] Ball-Tree (N-Dimensional TS Analysis)
+- [ ] Quad-tree
+- [ ] Kd-Tree
+- [ ] Ball-Tree (N-Dimensional TS Analysis)
 
 - Interactions
 
-- [] SHO
-- [] Coulomb
-- [] Morse
-- [] Lennard-Jones
-- [] Yukawa
-- [] Buckingham
-- [] EM Renormalized (Debye) 
+- [ ] SHO
+- [ ] Coulomb
+- [ ] Morse
+- [ ] Lennard-Jones
+- [ ] Yukawa
+- [ ] Buckingham
+- [ ] EM Renormalized (Debye) 
