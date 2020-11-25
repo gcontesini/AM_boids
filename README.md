@@ -28,6 +28,16 @@ Boids is an artificial life program, developed by Craig Reynolds in 1986, which 
 
 ## Todo
 
+- TS Analysis
+
+- [ ] Centroid
+- [ ] Position Correlation
+- [ ] Momentum Correlation
+- [ ] TSN decomposition
+- [ ] Susceptibility 
+- [ ] Implement White, Brown and Pink Noise
+- [ ] Noise/Signal Ration
+
 - Position Test
 
 - [ ] Quad-tree
